@@ -1,0 +1,1 @@
+const myArray = [["Science",90],["Math",98]];
